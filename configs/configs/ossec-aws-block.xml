@@ -1,0 +1,11 @@
+<wodle name="aws-s3">
+  <disabled>no</disabled>
+  <interval>10m</interval>
+  <run_on_start>yes</run_on_start>
+  <skip_on_error>yes</skip_on_error>
+  <bucket type="cloudtrail">
+    <name>aws-cloudtrail-logs-783149339776-1d0df104</name>
+    <aws_profile>default</aws_profile>
+    <only_logs_after>2026-JUN-24</only_logs_after>
+  </bucket>
+</wodle>

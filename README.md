@@ -18,7 +18,7 @@ Built as part of **Cybersecurity Project 1 — 2026** for **FireOps Systems**, a
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](screenshots/architecture.png)
+![Architecture Diagram](Soc%20threat-visibility%20pictures/architecture.png)
 
 **Components:**
 - **Kali Linux VM** — Wazuh Manager + Dashboard running on Docker
